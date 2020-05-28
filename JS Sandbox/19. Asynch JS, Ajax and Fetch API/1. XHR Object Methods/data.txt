@@ -1,0 +1,1 @@
+Some plain text data has been included in this file to be fetched by the app.js
